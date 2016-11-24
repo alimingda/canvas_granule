@@ -1,1 +1,2 @@
-# canvas_granule
+# 利用canvas制作的粒子动画
+    预览请点击
